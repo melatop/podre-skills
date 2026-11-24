@@ -1,0 +1,16 @@
+{
+  "handle": "@seucanal",
+  "cta": "SEGUE O @seucanal",
+  "cores": {
+    "fundo": "#1D3557",
+    "escuro": "#121212",
+    "claro": "#FFFFFF",
+    "papel": "#F3EADB",
+    "destaque": "#FFC21A"
+  },
+  "selo": null,
+  "voz": "Puck",
+  "modelo_tts": "gemini-3.1-flash-tts-preview",
+  "estilo_narracao": "Leia em português do Brasil, em ritmo ágil de vídeo curto, com energia e clareza, tom de professor jovem e simpático. Faça uma pausa clara entre os parágrafos:",
+  "estilo_narracao_serio": "Leia em português do Brasil, em tom calmo, sério e respeitoso, ritmo firme, sem dramatizar. Faça uma pausa clara entre os parágrafos:"
+}

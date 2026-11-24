@@ -1,0 +1,7 @@
+node_modules/
+out/
+rmt/public/audio/
+rmt/public/img/
+rmt/src/data/
+__pycache__/
+*.wav

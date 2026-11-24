@@ -1,0 +1,89 @@
+{
+  "id": "EXEMPLO-001",
+  "titulo": "Por que o ano tem 365 dias (exemplo do formato)",
+  "tipo": "Exemplo",
+  "postar_em": "2026-01-01",
+  "capa_cor": "fundo",
+  "capa": "POR QUE O ANO TEM [365 DIAS]?",
+  "serie": null,
+  "imagens": [],
+  "confirmar": [
+    "Exemplo curto só para testar o pipeline (fica abaixo de 1 minuto de propósito)."
+  ],
+  "fontes": [],
+  "legenda_post": "Exemplo de legenda. #exemplo",
+  "cenas": [
+    {
+      "tipo": "gancho",
+      "fala": "Por que o ano tem trezentos e sessenta e cinco dias? E por que, de quatro em quatro anos, aparece um dia a mais?",
+      "leg": "Por que o ano tem 365 dias? E por que, de quatro em quatro anos, aparece um dia a mais?",
+      "tela": "[365] dias?",
+      "visual": [
+        {
+          "tipo": "cal",
+          "em": 0,
+          "folhas": [
+            {
+              "txt": "365",
+              "sub": "dias",
+              "em": 0
+            }
+          ]
+        },
+        {
+          "tipo": "cal",
+          "em": 19,
+          "folhas": [
+            {
+              "txt": "29 FEV",
+              "sub": "de 4 em 4 anos",
+              "em": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "fala": "A Terra leva cerca de trezentos e sessenta e cinco dias e seis horas para dar uma volta no Sol. Essas seis horas somam um dia inteiro a cada quatro anos.",
+      "leg": "A Terra leva cerca de 365 dias e 6 horas para dar uma volta no Sol. Essas 6 horas somam um dia inteiro a cada 4 anos.",
+      "tela": "365 dias e [6 horas]",
+      "visual": [
+        {
+          "tipo": "mapa",
+          "em": 0,
+          "regiao": "mundo",
+          "rotulo": "Terra"
+        },
+        {
+          "tipo": "cal",
+          "em": 16,
+          "folhas": [
+            {
+              "txt": "6 H",
+              "sub": "por ano",
+              "em": 16
+            },
+            {
+              "txt": "24 H",
+              "sub": "em 4 anos",
+              "em": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "fechamento",
+      "fala": "E aí? Você sabia disso? Comenta aí e segue o canal pra próxima.",
+      "leg": "E aí? Você sabia disso? Comenta aí e segue o canal pra próxima.",
+      "tela": "VOCÊ [SABIA]?",
+      "visual": [
+        {
+          "tipo": "selo",
+          "em": 0
+        }
+      ]
+    }
+  ]
+}

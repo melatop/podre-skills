@@ -6,6 +6,12 @@ Skills do Claude do Pedro.
 |---|---|---|
 | [ttk-stats](skills/ttk-stats/SKILL.md) | `/ttk-stats` | Analisa as métricas de um canal de TikTok no TikTok Studio, define a estratégia dos próximos ~10 vídeos, produz os vídeos e agenda 2 por dia. |
 
+## Templates
+
+| Template | O que é |
+|---|---|
+| [ttk-video-pipeline](templates/ttk-video-pipeline/) | Pipeline de produção dos vídeos (roteiro JSON → Gemini TTS → Remotion) usado pela `/ttk-stats`. |
+
 ## Como usar
 - **Claude Code:** copie a pasta da skill para `.claude/skills/` do projeto ou para `~/.claude/skills/`.
 - **claude.ai:** envie a pasta da skill compactada em .zip na área de Skills das configurações.
