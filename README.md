@@ -1,3 +1,5 @@
+![podre-skills](https://github.com/user-attachments/assets/2e8f77fe-5307-4f9f-8b06-db0e86478fbe)
+
 # podre-skills
 
 Skills do Claude do Pedro.
