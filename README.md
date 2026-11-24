@@ -8,4 +8,4 @@ Skills do Claude do Pedro.
 
 ## Como usar
 - **Claude Code:** copie a pasta da skill para `.claude/skills/` do projeto ou para `~/.claude/skills/`.
-- **claude.ai:** em Configurações > Capacidades > Skills, envie a pasta da skill compactada em .zip.
+- **claude.ai:** envie a pasta da skill compactada em .zip na área de Skills das configurações.
